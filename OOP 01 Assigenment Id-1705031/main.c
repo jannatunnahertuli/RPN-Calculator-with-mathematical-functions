@@ -1,13 +1,4 @@
-/* Include Mathematical Functions */
-/* Add commands to
-  - print top element of the stack,without poping
-  - duplicate it
-  - swap the top two elements
-  - Clear the stack  */
 
-/* IMPORTANT: compile with -lm flag(the static math library)
-   For eg: gcc -lm rpn-3.c
-*/
 
 #include<stdio.h>
 #include<stdlib.h>
