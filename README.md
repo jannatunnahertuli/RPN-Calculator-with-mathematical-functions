@@ -16,7 +16,7 @@ This program has number of helper functions like getop, push and pop, which we u
 The RPN calculator has addition features like doing mathematical functions. In the input, if a string is given then the calculator identifies it as a NAME and goes to the mathfun.
 In the mathfun, the string input is compared with “sin” and if it is a sin, the mathematical function sin is called on the popped value. If the intput is cos, the cosine function is called and if the input is “pow”, then first value is popped and stored in op2 and second value is raised to the power of op2.
 
-################################################################################################################
+
 # Assignment on: Compiling multiple source files into a single executable
                           ID          : 1705031
                           Reg         : 000009999
