@@ -1,4 +1,4 @@
-################################################################################################################
+
 # Installation Process:
 
 First using the Shell Command Line in Terminal, tunnel to the project folder via “cd” (change directory) a command similar to cd autodiction/vi-workspace/trial_menu
@@ -9,7 +9,7 @@ Using Compiler : for c code write “gcc - o filename filename.c” ,Enter for c
 
 Run : write “./filename” , Enter.
 
-################################################################################################################
+
 # Code Explanation:
 
 This program has number of helper functions like getop, push and pop, which we use to the implement the reverse polish notation calculator. The function getop takes a string and determines if it is number. If it is a number, both integer or decimal, it will store that number in the array and return a flag NUMBER which states that number is found. It will push that number to the stack. If it getop returns an operator like +, -, * or /, it will pop two numbers out of the stack and operate on it. When it encounters a /, it ensures that the second operand is not 0 and disallows.
