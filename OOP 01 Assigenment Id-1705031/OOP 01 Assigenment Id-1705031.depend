@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616051417 source:f:\oop 01 assigenment id-1705031\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"calc.h"
+
+1616051417 f:\oop 01 assigenment id-1705031\calc.h
+
+1616051681 source:f:\oop 01 assigenment id-1705031\getch.c
+	<stdio.h>
+
+1616051741 source:f:\oop 01 assigenment id-1705031\mathfnc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1616051922 source:f:\oop 01 assigenment id-1705031\stack.c
+	<stdio.h>
+
+1616051967 source:f:\oop 01 assigenment id-1705031\getop.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
